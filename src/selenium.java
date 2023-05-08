@@ -8,6 +8,11 @@ import org.openqa.selenium.support.ui.WebDriverWait;
 
 import io.github.bonigarcia.wdm.WebDriverManager;
 
+/*
+ * Nama Hadafee Mudo
+ * NIM 2008107010101
+ */
+
 public class selenium {
     public static void main(String[] args) {
         // Atur path driver Chrome
